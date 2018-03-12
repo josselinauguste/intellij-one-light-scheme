@@ -1,5 +1,5 @@
 <scheme name="One Light" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="2db448" />
     <option name="CARET_COLOR" value="526fff" />
