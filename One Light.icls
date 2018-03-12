@@ -267,6 +267,7 @@
         <option name="FOREGROUND" value="184bc" />
       </value>
     </option>
+    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="SASS_FUNCTION">
       <value>
         <option name="FOREGROUND" value="184bc" />
