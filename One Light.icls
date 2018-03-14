@@ -274,6 +274,28 @@
         <option name="FOREGROUND" value="184bc" />
       </value>
     </option>
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="c71d42" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="c71d42" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID" baseAttributes="XML_ATTRIBUTE_NAME" />
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="c71d42" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="c71d42" />
+      </value>
+    </option>
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="SASS_FUNCTION">
       <value>
